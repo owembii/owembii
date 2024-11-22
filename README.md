@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @owembii
-- 👀 I’m interested in doing html stuff, practicing skills for future use.
-- 🌱 I’m currently learning html, c++ and java
-- 💞️ I’m looking to collaborate on something easy to code or stuff.
+- 👋 Hi, I’m @Cedrick Clloyd Paglinawan
+- 👀 I’m interested in doing frontend developing, practicing my backend programming skills for future use.
+- 🌱 I’m currently learning java, reactjs and javascript
+- 💞️ I’m looking to collaborate on something easy to code so I could practice and hone my skills why doing so.
 
 
 <!---
